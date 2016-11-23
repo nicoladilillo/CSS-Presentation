@@ -32,8 +32,8 @@ strong {
 }
 
 div.first {
-	background-image: url('../icon/image.jpeg');
-	background-repeat: no-repeat;
+	background: url('../icon/image.jpeg') no-repeat 0 50%;
+	opacity: 0.8;
 }
 
 div.second {
