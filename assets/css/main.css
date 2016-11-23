@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #fff2ee;
+	font-family: Arial;
+}
+
+div {
+	height: 100vh;
+}
+
+h1 {
+    font-size: 90px;
+    line-height: 40vh;
+}
+
+p {
+	margin: 0 15%;
+	font-size: 30px;
+}
+
+strong {
+	color: #312017;
+}
+
+div.first {
+	background-color: rgba(226, 130, 6, 0.94);
+	text-align: center;
+}
