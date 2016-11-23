@@ -17,9 +17,9 @@ h1 {
 }
 
 h2 {
-	margin-top: 0px;
+	margin: 0;
     font-size: 90px;
-    line-height: 40vh;
+    line-height: 30vh;
 }
 
 p {
@@ -27,8 +27,23 @@ p {
 	font-size: 30px;
 }
 
+ul {
+    display: inline-block;
+    width: 50vw;
+    font-size: 25px;
+    text-align: left;
+}
+
+li {
+	font-size: 25px;
+}
+
 strong {
 	color: #312017;
+}
+
+img {
+	height: 50vh;
 }
 
 div.first {
@@ -38,4 +53,13 @@ div.first {
 
 div.second {
 	background-color: rgba(226, 130, 6, 0.94);
+}
+
+div.third {
+	background-color: #fff2ee;
+	color: rgb(0, 112, 186)
+}
+
+.third div {
+	vertical-align: 10vh;
 }
