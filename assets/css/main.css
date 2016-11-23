@@ -5,11 +5,19 @@ body {
 	font-family: Arial;
 }
 
-div {
+body > div {
 	height: 100vh;
+	text-align: center;
 }
 
 h1 {
+	color: white;
+	margin: 0;
+    font-size: 300px;
+}
+
+h2 {
+	margin-top: 0px;
     font-size: 90px;
     line-height: 40vh;
 }
@@ -24,6 +32,10 @@ strong {
 }
 
 div.first {
+	background-image: url('../icon/image.jpeg');
+	background-repeat: no-repeat;
+}
+
+div.second {
 	background-color: rgba(226, 130, 6, 0.94);
-	text-align: center;
 }
