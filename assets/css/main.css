@@ -67,44 +67,29 @@ div.first {
 	opacity: 0.8;
 }
 
-div.second {
+div.pair {
 	background-color: rgba(226, 130, 6, 0.94);
 }
 
-div.third {
+div.dispair {
 	background-color: #fff2ee;
 	color: rgb(0, 112, 186)
 }
 
-.third div {
-	vertical-align: 10vh;
-}
 
-div.fourst {
-	background-color: rgba(226, 130, 6, 0.94);
-}
-
-.fourst h2 {
+.fourth h2 {
 	font-size: 50px;
 	text-align: center;
 	line-height: 65px;
 	padding: 70px 40px;
 }
 
-.fourst img {
+.fourth img {
 	margin: 0px;
     display: block;
     margin: auto;
 }
 
-div.fivest {
-	background-color: #fff2ee;
-	color: rgb(0, 112, 186)
-}
-
-div.sixest {
-	background-color: rgba(226, 130, 6, 0.94);
-}
 
 ul.center {
 	display: block;
