@@ -11,11 +11,15 @@ body > div {
 }
 
 h1 {
-	color: white;
-	margin: 0;
+	color: #e38914;
+    margin: 0;
     font-size: 300px;
 }
 
+.first h2 {
+    font-size: 6em;
+    margin-top: -120px
+}
 h2 {
 	margin: 0;
     font-size: 90px;
