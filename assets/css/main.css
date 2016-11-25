@@ -120,3 +120,13 @@ ul.center li {
 	font-size: 30px;
     padding: 10px 0;
 }
+
+.image-container img {
+	margin: 0;
+	height: 50vh;
+}
+
+.image-container img:hover {
+	margin: 0;
+	height: 60vh;
+}
