@@ -103,7 +103,7 @@ div.sixest {
 	background-color: rgba(226, 130, 6, 0.94);
 }
 
-.sixest ul {
+ul.center {
 	display: block;
     width: 55vw;
     text-align: left;
@@ -112,7 +112,7 @@ div.sixest {
     margin: auto;
 }
 
-.sixest li {
+ul.center li {
 	font-size: 30px;
     padding: 10px 0;
 }
