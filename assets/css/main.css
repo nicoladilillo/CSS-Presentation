@@ -98,3 +98,21 @@ div.fivest {
 	background-color: #fff2ee;
 	color: rgb(0, 112, 186)
 }
+
+div.sixest {
+	background-color: rgba(226, 130, 6, 0.94);
+}
+
+.sixest ul {
+	display: block;
+    width: 55vw;
+    text-align: left;
+    float: none;
+    list-style: none;
+    margin: auto;
+}
+
+.sixest li {
+	font-size: 30px;
+    padding: 10px 0;
+}
