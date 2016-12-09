@@ -6,9 +6,9 @@ body {
 }
 
 body > div {
-		text-align: center;
-		padding: 20px;
-	}
+	text-align: center;
+	padding: 20px;
+}
 
 h1 {
 	color: #e38914;
@@ -47,6 +47,10 @@ img {
 	height: 40vh;
 }
 
+a {
+ 	color: rgba(255, 255, 255, 0);
+}
+
 div.first {
 	background: url('../icon/image.jpeg') no-repeat 0 50%;
 	opacity: 0.8;
@@ -68,11 +72,6 @@ div.dispair {
 .image-container img {
 	margin: 0;
 	height: 30vh;
-}
-
-.image-container img:hover {
-	margin: 0;
-	height: 35vh;
 }
 
 footer {
@@ -215,6 +214,15 @@ footer p {
 	}
 }
 
+@media only screen and (min-width: 500px) {
+
+	.image-container img:hover {
+		margin: 0;
+		height: 35vh;
+	}
+
+}
+
 @media only screen and (max-width: 400px) {
 
 	.image-container img {
@@ -222,7 +230,6 @@ footer p {
 		height: 15vh;
 	}
 }
-
 
 
 
